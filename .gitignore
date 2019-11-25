@@ -1,0 +1,9 @@
+*.pickle
+*.png
+__pycache__
+*.swp
+experiments
+*.pyc
+SOT/*
+*.npy
+*.jpg

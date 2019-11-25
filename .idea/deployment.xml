@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Hobot029">
+    <serverData>
+      <paths name="Hobot029">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/users/qiang.zhou/PyTorch-GOTURN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="*.pickle" />
+            <excludedPath local="true" path="data" />
+            <excludedPath local="true" path="experiments" />
+            <excludedPath local="true" path="*.pth.tar" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

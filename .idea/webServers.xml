@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9611b73d-1d28-4089-95ba-77da4df912b6" name="Hobot029" url="http://yz-gpu029.hogpu.cc">
+        <fileTransfer host="yz-gpu029.hogpu.cc" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="74eebe5f-8330-41a5-b46e-835fc089e654" name="mclab_vot1" url="http://122.205.5.5">
+        <fileTransfer host="122.205.5.5" port="22223" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22223" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
